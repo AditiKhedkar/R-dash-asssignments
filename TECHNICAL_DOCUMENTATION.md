@@ -340,6 +340,3 @@ The component is ready for production deployment with:
 - Error handling
 - Clean, maintainable code structure
 
-## License
-
-MIT License - Free for commercial and personal use.
